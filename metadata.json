@@ -1,0 +1,5 @@
+{
+  "name": "Tamimstock",
+  "description": "An AI-powered tool to automatically generate SEO metadata (titles, keywords, descriptions) for multiple uploaded images, with options for customization and bulk export.",
+  "requestFramePermissions": []
+}
